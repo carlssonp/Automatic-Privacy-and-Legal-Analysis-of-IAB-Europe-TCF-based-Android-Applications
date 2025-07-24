@@ -1,4 +1,4 @@
-# Android-TCF-Analysis
+# Automatic Privacy and Legal Analysis of IAB Europe TCF based Android Applications
 
 This project contains all files neccessary to run the analysis we performed to achieve the results we present in our paper, which can be found at:
 
